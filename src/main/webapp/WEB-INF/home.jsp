@@ -12,7 +12,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Software Solutions</h1>
+<h1 align="center">Welcome to Mithun Software Solutions Private Ltd</h1>
 <h1 align="center">Very Good Training center for DevOps in Maratha Halli and also for Job Assitance... and Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <div style="text-align: center;">
@@ -21,7 +21,7 @@
 
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Software Solutions, 
+		Mithun Software Solutions Private Ltd, 
 		Martha Halli,Opp To Madhurai Iddly House
 		Bangalore.
 		+91-9980923226
