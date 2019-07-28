@@ -1,3 +1,5 @@
+
+node{
   echo "GitHub BranhName ${env. BRANCH_NAME}"
 
   echo "Jenkins Job Number ${env.BUILD_NUMBER}"
@@ -12,10 +14,7 @@
 
   echo "JOB Name ${env.JOB_NAME}"
 
-
-
-
-node{
+  
     def mvnHome = tool name:'Maven 3.6.1', type:'maven'
    properties([buildDiscarder(logRotator(artifactDaysToKeepStr: '', artifactNumToKeepStr: '', daysToKeepStr: '', numToKeepStr: '5'))])
     
