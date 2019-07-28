@@ -1,6 +1,6 @@
 
 node{
-  echo "GitHub BranhName ${env. BRANCH_NAME}"
+  /*echo "GitHub BranhName ${env. BRANCH_NAME}"
 
   echo "Jenkins Job Number ${env.BUILD_NUMBER}"
 
@@ -12,7 +12,7 @@ node{
 
   echo "Jenkins URL ${env.JENKINS_URL}"
 
-  echo "JOB Name ${env.JOB_NAME}"
+  echo "JOB Name ${env.JOB_NAME}"*/
 
   
     def mvnHome = tool name:'Maven 3.6.1', type:'maven'
